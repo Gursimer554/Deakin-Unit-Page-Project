@@ -1,6 +1,6 @@
 /* Header styles (initial team colour) */
 .site-header {
-  background-color: darkcyan;        /* initial team header colour */
+  background-color: blue;        /* initial team header colour */
   padding: 12px 16px;
   display: flex;
   justify-content: flex-end;         /* logo on right like spec */
